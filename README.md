@@ -1,4 +1,4 @@
 
-# Novo SGA website
+# Baseado no: Novo SGA website
 
-Visit http://novosga.org
+Visit https://juliofmendes.github.io/website/
